@@ -44,6 +44,7 @@ Inside each of the 5 <td class="left"> elements, add <h3> elements that include 
     03:00 PM
     04:00 PM
 
+
 Feel free to look back at the live site to compare.
 
 Inside each of the <td> elements that does not have a class attribute with a value of "left", add <h3> elements that include the name of events:
